@@ -1,0 +1,34 @@
+Propiedades de masa de idealizacion eje z R
+     Configuración:  Predeterminado
+     Sistema de coordenadas:  -- predeterminado --
+
+Densidad = 2705.000000 kilogramos por metro cúbico
+
+Masa = 0.193119 kilogramos
+
+Volumen = 0.000071 metros cúbicos
+
+Área de superficie = 0.029997 metros cuadrados
+
+Centro de masa: ( metros )
+	X = 0.010342
+	Y = 0.067000
+	Z = 0.010342
+
+Ejes principales de inercia y momentos principales de inercia: ( kilogramos * metros cuadrados )
+Medido desde el centro de masa.
+	 Ix = ( 0.000000,  1.000000,  0.000000)   	Px = 0.000109
+	 Iy = (-0.707107,  0.000000,  0.707107)   	Py = 0.000311
+	 Iz = ( 0.707107,  0.000000,  0.707107)   	Pz = 0.000376
+
+Momentos de inercia: ( kilogramos * metros cuadrados )
+Obtenidos en el centro de masa y alineados con el sistema de coordenadas de resultados.
+	Lxx = 0.000344	Lxy = 0.000000	Lxz = -0.000032
+	Lyx = 0.000000	Lyy = 0.000109	Lyz = 0.000000
+	Lzx = -0.000032	Lzy = 0.000000	Lzz = 0.000344
+
+Momentos de inercia: ( kilogramos * metros cuadrados)
+Medido desde el sistema de coordenadas de salida.
+	Ixx = 0.001231	Ixy = 0.000134	Ixz = -0.000011
+	Iyx = 0.000134	Iyy = 0.000151	Iyz = 0.000134
+	Izx = -0.000011	Izy = 0.000134	Izz = 0.001231
