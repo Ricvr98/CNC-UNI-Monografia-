@@ -1,0 +1,51 @@
+;Fusion 360 CAM 2.0.6258
+;Posts processor: MPCNC_Mill_Laser.cps
+;Gcode generated: Sunday, September 1, 2019 5:01:05 PM GMT
+;Document: Biela inferior v4
+;Setup: Setup1
+
+G90
+G21
+M84 S0
+G92 X0 Y0 Z0
+
+;Probe tool - Not yet implemented
+
+;Drill1 - Milling - Tool: 1 - drill
+;X Min: 0 - X Max: 69
+;Y Min: -95 - Y Max: 0
+;Z Min: -8.803 - Z Max: 15
+M400
+M117 Drill1
+G1 Z15 F300
+G1 X69 Y0 F2500
+G1 Z5 F300
+G1 Z-8.803 F49
+G1 Z5 F300
+G1 X46 F2500
+G1 Z-8.803 F49
+G1 Z5 F300
+G1 X23 F2500
+G1 Z-8.803 F49
+G1 Z5 F300
+G1 X0 F2500
+G1 Z-8.803 F49
+G1 Z5 F300
+G1 Y-95 F2500
+G1 Z-8.803 F49
+G1 Z5 F300
+G1 X23 F2500
+G1 Z-8.803 F49
+G1 Z5 F300
+G1 X46 F2500
+G1 Z-8.803 F49
+G1 Z5 F300
+G1 X69 F2500
+G1 Z-8.803 F49
+G1 Z5 F300
+G1 Z15 F300
+
+M400
+M117 Job end
+G1 X0 Y0 F2500
+G1 Z0 F300
