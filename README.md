@@ -1,6 +1,6 @@
 # CNC-UNI-Monografia-
 Diseño de un cnc de tres ejes para la universidad nacional de ingenieria (uni)
----------------------------------------CNC UNI 1.0-----------------------------------------
+-----------------CNC UNI 1.0------------------
 ===========================================================================================
 Las máquinas de control numérico o CNC son el alma de la manufactura a gran escala
 por lo tanto se ha decidido hacer un esfuerzo en entender la tecnología con el fin 
